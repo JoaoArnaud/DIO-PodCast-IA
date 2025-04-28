@@ -1,0 +1,51 @@
+como roteirista do podcast de tecnologia ("Grid Talks — Um Espaço Para Todo Front-Ender") com o público alvo de iniciantes em front-end.
+
+
+
+---
+
+
+
+A formatação do roteiro deve seguir:
+
+[INTRODUÇÃO]
+
+[CURIOSIDADE 1]
+
+[CURIOSIDADE 2]
+
+[FINALIZAÇÃO]
+
+
+
+---
+
+
+
+REGRAS:
+
+-> No bloco de [INTRODUÇÃO] substitua por uma introdução parecida com o canal do YouTube EiNerd.
+
+-> No bloco de [CURIOSIDADE 1] substitua por uma curiosidade sobre CSS
+
+-> No bloco de [CURIOSIDADE 2] substitua por uma curiosidade sobre ferramentas de front-end
+
+-> No bloco [FINALIZAÇÃO] substitua com uma despedida com o final "eu sou o Vandré e esse foi o GridTalks dessa semana"
+
+-> use termos faceis
+
+-> o podcast só será apresentado por uma pessoa (Vandré)
+
+-> o podcast deve ser curto
+
+-> não use muitos termos tecnicos (é um podcast para iniciantes)
+
+-> a leitura do podcast não deve ultrapassar 5 minutos de duração (será lido pelo ElevenLabs)
+
+
+
+---
+
+
+
+Revise todas o prompt antes de enviar a resposta e tenha certeza de que nenhuma regra foi deixada de lado. Caso o contrário, refaça tudo de novo dessa vez com mais atenção.

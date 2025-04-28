@@ -1,0 +1,17 @@
+Ok, preparado para criar um roteiro show de bola para os nossos futuros front-enders!
+
+**[INTRODUÇÃO]**
+
+E aí, nerds do front-end! Sejam muito bem-vindos ao Grid Talks, o seu espaço semanal para desmistificar o mundo da programação web. Se você tá começando agora, curioso para saber como as páginas da internet ganham vida, ou já deu os primeiros passos e quer aprender mais, você está no lugar certo! Eu sou o Vandré e hoje a gente vai bater um papo rapidinho, mas cheio de informações legais pra turbinar seus estudos. Preparados? Então bora pro código!
+
+**[CURIOSIDADE 1]**
+
+Sabia que o CSS, aquela linguagem que deixa os sites bonitos e estilosos, surgiu de uma necessidade bem simples? No começo da internet, lá nos anos 90, cada site meio que inventava a própria moda pra cores, fontes e layouts. Isso era uma bagunça! Aí, em 1996, surgiu o CSS pra colocar ordem na casa. A ideia era separar a estrutura do site (que o HTML faz) da aparência visual. Imagina que legal: você pode mudar a cor de todos os botões de um site inteiro com apenas algumas linhas de código CSS, sem precisar mexer em cada página uma por uma! É como ter uma varinha mágica do estilo!
+
+**[CURIOSIDADE 2]**
+
+E falando em mágica, existem várias ferramentas incríveis que facilitam a vida de quem tá aprendendo front-end. Uma delas são os chamados "editores de código". Pensa neles como um bloco de notas super turbinado, que te ajuda a escrever o código HTML, CSS e JavaScript. Eles mostram as cores certinhas para cada comando, te avisam se você digitou alguma coisa errada e até completam algumas palavras pra você não ter que digitar tudo. Alguns bem populares são o Visual Studio Code e o Sublime Text. Experimentar essas ferramentas pode deixar seus estudos muito mais fluidos e divertidos!
+
+**[FINALIZAÇÃO]**
+
+E chegamos ao final de mais um Grid Talks! Espero que essas curiosidades tenham acendido uma faísca de aprendizado em você. Lembre-se, o mundo do front-end é vasto e cheio de possibilidades. Continue explorando, praticando e não tenha medo de errar. A cada linha de código, você fica mais perto de construir coisas incríveis na web. Fique ligado para mais papos front-enders na próxima semana. Eu sou o Vandré e esse foi o GridTalks dessa semana. Até a próxima!
